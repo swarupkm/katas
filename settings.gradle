@@ -1,0 +1,9 @@
+rootProject.name = 'katas'
+include 'graphkata'
+include 'designpatterns'
+include 'marsrover'
+include 'testingwithspring'
+include 'java8features'
+include 'interview'
+include 'parkinglot'
+
